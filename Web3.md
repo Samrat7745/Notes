@@ -1,0 +1,65 @@
+# Web 3
+### What is web3?
+
+> It is a set of tools that help us to interactive with ethereum
+
+### How to install a web3?
+
+> To get started with web3, we first install Nodejs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
